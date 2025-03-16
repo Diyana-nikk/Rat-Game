@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31db005fbc2f7d34593250124ecc2d60
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dialogueArea: {fileID: 6657281202142808407, guid: 388c1ecc6ec74504eb8698de9f74f1d2, type: 3}
+  - dialogueBackground: {fileID: 2055463842796599355, guid: 76ece26b6c677684a9a6c80dbdc581dd, type: 3}
+  - dialogueText: {fileID: 6657281202142808407, guid: 388c1ecc6ec74504eb8698de9f74f1d2, type: 3}
+  - dialogueNextButton: {fileID: 9010972372941629044, guid: 5925cb430bbd62546a9d020bebf877ff, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

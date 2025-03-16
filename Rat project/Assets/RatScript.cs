@@ -10,13 +10,10 @@ public class RatScript : MonoBehaviour
     public bool isGrounded = true;
     public static bool facingRight = true;
     public Vector2 movement;
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         myRigidbody = GetComponent<Rigidbody2D>();
     }
-    // Update is called once per frame
     void Update()
     {
         if (RatDashAttack.isDashing)
